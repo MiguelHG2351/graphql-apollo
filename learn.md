@@ -2,8 +2,6 @@
 
 Los fragment ayudan a no repetir el mismo patrón en querys que requieren los mismos datos
 
-# nombrar datos
-
 ```graphql
 
 fragment data on Character {
@@ -12,6 +10,8 @@ fragment data on Character {
 }
 
 ```
+
+# nombrar datos
 
 ```graphql
 
